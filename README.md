@@ -33,6 +33,10 @@ From there, you can run your routes in Insomnia in order to see all of the Creat
 You can watch this video to see the E-commerce back-end in action:
 https://drive.google.com/file/d/1bMyKwr81L5aw-iZ_WQa4Se1jPRnwy48R/view
 
+![screenshot](./screenshot1.PNG)
+
+![screenshot](./screenshot2.PNG)
+
 ## Credits
 
 N/A
